@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-This script "run_analysis.R" is to manipulate the follwing data set: 
+This script "run_analysis.R" is to download and manipulate the follwing data set: 
 
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
